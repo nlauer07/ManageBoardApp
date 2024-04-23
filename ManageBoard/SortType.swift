@@ -10,5 +10,5 @@ enum SortType {
     case dateCreated
     case dueDate
     case priority
-    // Add other sorting criteria as needed
+    // More sorting criteria
 }
